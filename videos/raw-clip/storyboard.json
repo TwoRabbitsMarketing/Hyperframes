@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 3,
+  "composition": {
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "durationSeconds": 26.92,
+    "layout": "portrait",
+    "themeId": "craft",
+    "seed": 42
+  },
+  "videoTrack": {
+    "sourcePath": "input-video.mp4",
+    "startSec": 0,
+    "endSec": 26.92,
+    "bounds": { "x": 0, "y": 0, "width": 1080, "height": 1920 }
+  },
+  "subtitles": { "enabled": false },
+  "_design": {
+    "ratio": "9:16",
+    "layout": "overlay",
+    "style": "xhs/editorial hybrid (warm social glass)",
+    "frame": "clean",
+    "palette": "hot-pink / orange / yellow on dark warm glass",
+    "cardCount": 5,
+    "copyLanguage": "English 'Gujlish' (matches the script's own code-mixing; bundled fonts don't cover Gujarati script)"
+  },
+  "cards": [
+    {
+      "id": "card-01",
+      "intent": "Hook: Gujarati guests have a 'style' of just showing up — relatable universal truth.",
+      "startSec": 0.4,
+      "endSec": 5.6,
+      "accentIndex": 0,
+      "zone": "video-overlay",
+      "contentHints": {
+        "kicker": "GUJARATI HOMES · A UNIVERSAL TRUTH",
+        "title": "Guests have a style of just showing up"
+      }
+    },
+    {
+      "id": "card-02",
+      "intent": "The Gujarati RSVP: no phone call, the doorbell IS the notification.",
+      "startSec": 5.8,
+      "endSec": 9.5,
+      "accentIndex": 1,
+      "zone": "video-overlay",
+      "contentHints": {
+        "pre": "The Gujarati RSVP",
+        "title": "No phone. No text. Just — ding dong.",
+        "detail": "the doorbell is the notification"
+      }
+    },
+    {
+      "id": "card-03",
+      "intent": "The classic surprise-guest excuse, played as a pull-quote.",
+      "startSec": 9.8,
+      "endSec": 18.2,
+      "accentIndex": 0,
+      "zone": "video-overlay",
+      "contentHints": {
+        "quote": "We were just passing by... thought we'd pop in to eat!",
+        "attr": "every surprise guest, ever"
+      }
+    },
+    {
+      "id": "card-04",
+      "intent": "The smart-host move: keep Instacook ready, dinner is already handled.",
+      "startSec": 18.4,
+      "endSec": 22.6,
+      "accentIndex": 2,
+      "zone": "video-overlay",
+      "contentHints": {
+        "pre": "Smart move?",
+        "title": "Keep Instacook ready at home",
+        "detail": "Guests over? Dinner's already handled."
+      }
+    },
+    {
+      "id": "card-05",
+      "intent": "Brand payoff / CTA: guests happy, host relaxed — because it's Instacook.",
+      "startSec": 22.8,
+      "endSec": 26.9,
+      "accentIndex": 1,
+      "zone": "video-overlay",
+      "contentHints": {
+        "brand": "Instacook",
+        "tagline": "Guests happy. You, relaxed.",
+        "chip": "Ready in minutes"
+      }
+    }
+  ]
+}

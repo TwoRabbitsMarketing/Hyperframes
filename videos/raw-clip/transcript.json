@@ -1,0 +1,37 @@
+{
+  "_note": "Source script supplied by user (local Whisper transcription is egress-blocked in this environment, so word-level timings are estimated by proportional segmentation across the 26.92s clip). Original is code-mixed Gujarati + English.",
+  "language": "gu",
+  "durationSeconds": 26.92,
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 5.6,
+      "text": "ગુજરાતી ઘરોમાં છે ને મહેમાન આવવાની એક style હોય.",
+      "gloss": "In Gujarati homes, there's a whole style to how guests show up."
+    },
+    {
+      "start": 5.8,
+      "end": 9.5,
+      "text": "phone બોન ના કરે, સીધું ding dong.",
+      "gloss": "No phone call — straight to the doorbell, ding dong."
+    },
+    {
+      "start": 9.8,
+      "end": 18.2,
+      "text": "ઘરમાં આવીને કે, 'અરે જતાતા, રસ્તામાં મળ્યા, ઘર આવ્યું અમને થયું કે ચલો ને મલ્હારના ઘરે ગઈક ખાતા આઈએ.'",
+      "gloss": "They walk in: 'Hey, we were just passing by, met on the road, your house came up — we thought, let's drop in and eat something.'"
+    },
+    {
+      "start": 18.4,
+      "end": 22.6,
+      "text": "મારા જેવા smart લોકો શું કરે કઉં, ઘરમાં Instacook ready જ રાખે.",
+      "gloss": "Smart people like me? We keep Instacook ready at home."
+    },
+    {
+      "start": 22.8,
+      "end": 26.9,
+      "text": "મહેમાન પણ ખુશ because it's Instacook.",
+      "gloss": "The guests are happy too — because it's Instacook."
+    }
+  ]
+}
